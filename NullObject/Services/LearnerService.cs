@@ -16,13 +16,10 @@ namespace NullObject.Services
             // go get the Learner's id from a JWT token cookie
             // or by some other appropriate means
             
-            int learnerId = 1;
+            int learnerId = -1;
             
-            var learner = _repo.GetLearner(learnerId);
+            return _repo.GetLearner(learnerId);
             
-            if (learner == null) throw new NullReferenceException();
-
-            return learner;
         }
 
         class LearnerRepo
@@ -31,9 +28,9 @@ namespace NullObject.Services
 
             internal LearnerRepo()
             {
-                _learners.Add(new Learner(1, "David", 83));
-                _learners.Add(new Learner(2, "Julie", 72));
-                _learners.Add(new Learner(3, "Scott", 92));
+                _learners.Add(new Learner(1, "Noman", 83));
+                _learners.Add(new Learner(2, "MuhammadNoman", 72));
+                _learners.Add(new Learner(3, "Muhammad.Noman", 92));
             }
 
             internal ILearner GetLearner(int id)
@@ -43,7 +40,7 @@ namespace NullObject.Services
                 if (learnerExists)
                     return _learners.FirstOrDefault(l => l.Id == id);
 
-                return null;
+                return new NullLearner();
             }
         }
         

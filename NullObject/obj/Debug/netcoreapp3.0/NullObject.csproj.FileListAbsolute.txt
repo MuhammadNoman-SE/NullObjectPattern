@@ -20,3 +20,15 @@
 /Users/davidstarr/OneDrive/Pluralsight/Pattern_NullObject/before/NullObjectPattern/NullObject/obj/Debug/netcoreapp3.0/NullObject.AssemblyInfo.cs
 /Users/davidstarr/OneDrive/Pluralsight/Pattern_NullObject/before/NullObjectPattern/NullObject/obj/Debug/netcoreapp3.0/NullObject.dll
 /Users/davidstarr/OneDrive/Pluralsight/Pattern_NullObject/before/NullObjectPattern/NullObject/obj/Debug/netcoreapp3.0/NullObject.pdb
+D:\NullObjectPattern\NullObjectPattern\NullObject\bin\Debug\netcoreapp3.0\NullObject.exe
+D:\NullObjectPattern\NullObjectPattern\NullObject\bin\Debug\netcoreapp3.0\NullObject.deps.json
+D:\NullObjectPattern\NullObjectPattern\NullObject\bin\Debug\netcoreapp3.0\NullObject.runtimeconfig.json
+D:\NullObjectPattern\NullObjectPattern\NullObject\bin\Debug\netcoreapp3.0\NullObject.runtimeconfig.dev.json
+D:\NullObjectPattern\NullObjectPattern\NullObject\bin\Debug\netcoreapp3.0\NullObject.dll
+D:\NullObjectPattern\NullObjectPattern\NullObject\bin\Debug\netcoreapp3.0\NullObject.pdb
+D:\NullObjectPattern\NullObjectPattern\NullObject\obj\Debug\netcoreapp3.0\NullObject.csproj.CoreCompileInputs.cache
+D:\NullObjectPattern\NullObjectPattern\NullObject\obj\Debug\netcoreapp3.0\NullObject.AssemblyInfoInputs.cache
+D:\NullObjectPattern\NullObjectPattern\NullObject\obj\Debug\netcoreapp3.0\NullObject.AssemblyInfo.cs
+D:\NullObjectPattern\NullObjectPattern\NullObject\obj\Debug\netcoreapp3.0\NullObject.dll
+D:\NullObjectPattern\NullObjectPattern\NullObject\obj\Debug\netcoreapp3.0\NullObject.pdb
+D:\NullObjectPattern\NullObjectPattern\NullObject\obj\Debug\netcoreapp3.0\NullObject.genruntimeconfig.cache

@@ -17,4 +17,5 @@ namespace NullObject.Entities
 
         public int CoursesCompleted { get; private set; }
     }
+
 }
